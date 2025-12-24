@@ -15,7 +15,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeveonix&theme=transparent" width="300" />
   </a>
   <a href="https://github.com/eeveonix" style="display:inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eeveonix&theme=transparent&utcOffset=+5" width="300" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eeveonix&theme=transparent&utcOffset=-5" width="300" />
   </a>
 </div>
 <div style="height:2px"></div>
