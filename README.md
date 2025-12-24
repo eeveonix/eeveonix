@@ -1,1 +1,1 @@
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false"><img alt="eeveonix's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/eeveonix?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" /></a>
+[![Eeveonix's GitHub stats](https:/github-readme-stats-xi-six-59.vercel.app/api?username=eeveonix)](https://github.com/anuraghazra/github-readme-stats)
